@@ -1,0 +1,46 @@
+1. Assembly language
+ * object-oriented paradigma-ya uygundu
+ * Daha çox sistem proqlasdirmasinda istifad? olunur, CPU architecture (kompyuterin sistemi v? platformasi)
+ * Üstünlükl?ri:
+                - Programnnan istifade ederek sistem razilashmasina mudaxile edib deyishlikler ede bilersiz
+                - Uygunsuz konvensiyalardan istifade ederek kod fragment-leri arasinda interfeysler yarada bilersiz
+                - Prossessorun istenilen rejimlerine uygun olaraq access-i olmasi
+                - Her bir sisteme uygun olaraq manual ve yaxund hand-optimized code yarada bilersiz
+  * Zeiflikleri:
+                - Cox vaxt teleb eliyen ve yazmagi darixdirici olan dildir
+                - Bug-lar cox mushahide olundugu ve debug olunmasi qeliz olan bir dildir
+                - Basha dushulmesi cetindi ve detallar cox vaxt aparir
+
+2. C language
+  * Struktur paradigma-ya uygundu
+  * Proqlashdirma dillerin yazilmasinda, Emillyat sistemleri, muxtelif qrafiklerin yazilmasinda
+  * Ustunlukleri:
+                - Bir kompyuterde yazilan proglamlar cox asanliqlar diger kompyuterlerde istifade olunur
+                - C-de yazilan programlar basha dushulmesi asan olur cunki prinsipleri diger dillere uygunlashir
+                - Oyrenmek cetin deyil 
+                - Sureti diger programlara baxanda suretlidi
+                
+  * Zeiflikleri:
+                - Object-oriented paradigmada olan programlar bir coxu C-terefinden desteklenmir
+                - Yazilmish programi uzatmaq istesen bir cox bug-lar ortaya cixir hansiki duzeltmek qelizdi
+                
+3. JavaScript language
+  * Bir cox paradigmalarla ishleyir- esasen Functional
+  * Daha cox web saytlarin duzelmesinde istifade olunur esasen front-end
+  * Ustunlukleri:
+                - Cox suretli olmasi
+                - Cox meshur olmasi butun nov web programlashdirmada istifade olunmasi
+                - Functionlarin cox olmasi 
+  * Zeiflikleri:
+                - Bezi browserlerde buglarin ortaya cixmasi
+                
+4. Asp.net language
+ * Object-oriented paradigmada
+ * Daha cox web sahesinde istifade olunur, web saytlarin dinamikasini deyishir
+ * Ustunlukleri:
+                - Flexible olmasi
+                - Muxtelif platformalarda ishlemesi(windows,linux,mac)
+                - open source olmasi
+ * Zeiflikleri: 
+                - Basic sheylerin azligi, indi ishletdiyiniz kodlarin daha sonraki versiyalarda ishleme qarantiyasi yoxdu.
+             
